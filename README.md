@@ -38,13 +38,14 @@ This game is designed to be compatible with **Python 3.10 through 3.14+** and re
 
 ## 📸 Screenshots
 
-*(Note: Please capture your own gameplay screenshots and add them here!)*
+![Main Gameplay](Screenshot%202026-05-31%20025102.png)
+*Mario navigating through the retro world.*
 
-![Main Gameplay Placeholder](https://via.placeholder.com/800x450.png?text=Mario+Gameplay+Screenshot)
-*Mario navigating through pipes and platforms.*
+![Turtles and Hazards](Screenshot%202026-05-31%20025121.png)
+*Be careful of the patrolling turtles and piranha plants!*
 
-![Victory Sequence Placeholder](https://via.placeholder.com/800x450.png?text=Victory+Screenshot)
-*Rescuing the Queen from the cage.*
+![Victory Sequence](Screenshot%202026-05-31%20025206.png)
+*VICTORY! The Queen has been rescued from her cage.*
 
 ## 📜 Technical Details
 
